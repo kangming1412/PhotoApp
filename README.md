@@ -7,7 +7,7 @@ The backend part for a social network app which enables users to post events and
     
 
 ## Technology Stacks
-    Go, ElasticSearch, Google Cloud(BigTable, BigQuery, Dataflow)
+    Go, ElasticSearch, Google Cloud(BigTable, BigQuery, Dataflow, GCE/GAE, GCS), Cloud AI, 
 
 ## Summary
     Built a scalable web service in Go to handle posts and deployed to Google Cloud (GAE flex)
